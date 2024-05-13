@@ -162,7 +162,7 @@ body.nav-active{overflow: hidden;}
 .preload.loaded>*{opacity: 0;}
 
 .preload.loaded{
-    transition-delay: 250ms;
+    transition-delay: 450ms;
     transform: translateY(100%);
 }
 .circle{
